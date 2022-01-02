@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JoDi-2903
 - 👀 I’m interested in technology, programming and science.
-- 🌱 I’m currently studying computer science in Stuttgart, Germany.
+- 🎓 I’m currently studying computer science in Stuttgart, Germany.
